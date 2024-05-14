@@ -2,7 +2,7 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("SDET is awesome!");
+        System.out.println("QA is awesome!");
     }
   
 }
